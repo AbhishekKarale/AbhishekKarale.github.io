@@ -34,14 +34,10 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Easy to Enter Quotes
+  - title                                 : Highlight
     description                           : Simply highlight text from Kindle App or Safari and import into app
     fontawesome_icon_name                 : magic
     
-  - title                                 : Dark Mode
-    description                           : ioS 13 
-    fontawesome_icon_name                 : mobile
-
 
   - title                                 : Cloud Sync
     description                           : Access on any iOS device. Automatically backed up to Cloud
@@ -53,6 +49,14 @@ features                                  :
     
   - title                                 : Swipe
     description                           : Review cards by swiping through them
+    fontawesome_icon_name                 : star
+    
+   - title                                : Organise
+    description                           : Organise by Book, Author, Tags
+    fontawesome_icon_name                 : star
+    
+   - title                                : Export
+    description                           : Export backup to Spreadsheet
     fontawesome_icon_name                 : star
 
 
