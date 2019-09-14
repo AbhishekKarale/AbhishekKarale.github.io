@@ -50,11 +50,11 @@ features                                  :
     description                           : Review cards by swiping through them
     fontawesome_icon_name                 : star
     
-   - title                                : Organise
+  - title                                 : Organise
     description                           : Organise by Book, Author, Tags
     fontawesome_icon_name                 : star
     
-   - title                                : Export
+  - title                                 : Export
     description                           : Export backup to Spreadsheet
     fontawesome_icon_name                 : star
     
