@@ -38,7 +38,6 @@ features                                  :
     description                           : Simply highlight text from Kindle App or Safari and import into app
     fontawesome_icon_name                 : magic
     
-
   - title                                 : Cloud Sync
     description                           : Access on any iOS device. Automatically backed up to Cloud
     fontawesome_icon_name                 : sync
