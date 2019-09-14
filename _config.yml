@@ -34,8 +34,8 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Highlight
-    description                           : Simply highlight text from Kindle App or Safari and import into app
+  - title                                 : GitHub Pages Jekyll Theme
+    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
     fontawesome_icon_name                 : magic
     
   - title                                 : Cloud Sync
@@ -57,7 +57,6 @@ features                                  :
    - title                                : Export
     description                           : Export backup to Spreadsheet
     fontawesome_icon_name                 : star
-
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
