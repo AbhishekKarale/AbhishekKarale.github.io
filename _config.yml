@@ -25,7 +25,7 @@ your_city                                 :
 email_address                             : akaKarale@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
-twitter_username                          : AK23808553
+twitter_username                          : khabhit
 github_username                           : 
 youtube_username                          :
 
@@ -50,8 +50,8 @@ features                                  :
     description                           : Review cards by swiping through them
     fontawesome_icon_name                 : star
     
-  - title                                 : Organise
-    description                           : Organise by Book, Author, Tags
+  - title                                 : Scan
+    description                           : Text and Barcode recognition
     fontawesome_icon_name                 : star
     
   - title                                 : Export
